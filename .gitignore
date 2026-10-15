@@ -1,0 +1,14 @@
+# Preserve the supplied archive locally; distribute freshly built release assets.
+/abc-research-generator.zip
+/dist/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+!.env.example
+*credentials*.json
+/work/
+/openalex-cache/
+/downloads/
+*.pdf

@@ -1,0 +1,6 @@
+interface:
+  display_name: "ABC Research Question Generator"
+  short_description: "Turn a research interest into aligned ABC questions"
+  default_prompt: "Use $abc-research-generator to guide me from a paper or research interest to aligned questions and a feasible methods outline."
+policy:
+  allow_implicit_invocation: true

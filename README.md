@@ -1,6 +1,6 @@
 # ABC Research Generator
 
-A research design coach that applies Cronjé’s ABC framework to align aims, beliefs, and methods into a coherent brief.
+A research design coach that applies Johannes Cronjé’s ABC framework to align aims, beliefs, and methods into a coherent brief.
 
 Researchers often struggle to bridge the gap between a vague topic and a defensible, framework-aligned study design. This skill applies Cronjé’s Aim–Belief–Concern (ABC) framework to move you from a seed idea or paper to a coherent research brief. It checks for mismatches between your intended contribution, philosophical assumptions, questions, and methods.
 
